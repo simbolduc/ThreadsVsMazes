@@ -1,0 +1,11 @@
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\bin\Debug\ThreadsVsMazes.exe.config
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\bin\Debug\ThreadsVsMazes.exe
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\bin\Debug\ThreadsVsMazes.pdb
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\obj\Debug\ThreadsVsMazes.csprojAssemblyReference.cache
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\obj\Debug\ThreadsVsMazes.Properties.Resources.resources
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\obj\Debug\ThreadsVsMazes.csproj.GenerateResource.cache
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\obj\Debug\ThreadsVsMazes.exe
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\obj\Debug\ThreadsVsMazes.pdb
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\obj\Debug\ThreadsVsMazes.MainMenu.resources
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\obj\Debug\ThreadsVsMazes.MazeSelector.resources
+C:\Users\sw4gf\RiderProjects\OperatingSystem\ThreadsVsMazes\obj\Debug\ThreadsVsMazes.MazeForm.resources
